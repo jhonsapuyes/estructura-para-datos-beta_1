@@ -1,0 +1,55 @@
+[
+    {"instruciones_uso":"inst gen"},
+    {"sql":[   
+        {"instruciones":"inst sql"},     
+        {"nombre_script_1":[
+            {"ejemplo":"sql 1"},
+            {"hecho":"sql 1"},
+            {"otro":[{"creo_1":"sql 1"},{"creo_2":"sql 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"sql 2"},
+            {"hecho":"sql 2"},
+            {"otro":[{"creo_1":"sql 2"},{"creo_2":"sql 2"}]}
+        ]}
+    ]},
+    {"sqlserver":[        
+        {"instruciones":"inst sql server"},     
+        {"nombre_script_1":[
+            {"ejemplo":"sql server 1"},
+            {"hecho":"sql server 1"},
+            {"otro":[{"creo_1":"sql server 1"},{"creo_2":"sql server 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"sql server 2"},
+            {"hecho":"sql server 2"},
+            {"otro":[{"creo_1":"sql server 2"},{"creo_2":"sql server 2"}]}
+        ]}
+    ]},
+    {"mongo":[        
+        {"instruciones":"inst mongo"},     
+        {"nombre_script_1":[
+            {"ejemplo":"mongo 1"},
+            {"hecho":"mongo 1"},
+            {"otro":[{"creo_1":"mongo 1"},{"creo_2":"mongo 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"mongo 2"},
+            {"hecho":"mongo 2"},
+            {"otro":[{"creo_1":"mongo 2"},{"creo_2":"mongo 2"}]}
+        ]}
+    ]},
+    {"casandra":[        
+        {"instruciones":"inst casandra"},     
+        {"nombre_script_1":[
+            {"ejemplo":"casandra 1"},
+            {"hecho":"casandra 1"},
+            {"otro":[{"creo_1":"casandra 1"},{"creo_2":"casandra 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"casandra 2"},
+            {"hecho":"casandra 2"},
+            {"otro":[{"creo_1":"casandra 2"},{"creo_2":"casandra 2"}]}
+        ]}
+    ]}
+]

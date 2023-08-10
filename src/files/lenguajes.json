@@ -1,0 +1,122 @@
+[
+    {"instruciones_uso":"inst gen"},
+    {"html":[
+        {"instruciones":"inst html"},
+        {"nombre_script_1":[
+            {"ejemplo":"html 1"},
+            {"hecho":"html 1"},
+            {"otro":[{"creo_1":"html 1"},{"creo_2":"html 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"html 2"},
+            {"hecho":"html 2"},
+            {"otro":[{"creo_1":"html 2"},{"creo_2":"html 2"}]}
+        ]}
+    ]},
+    {"css":[
+        {"instruciones":"inst css"},
+        {"nombre_script_1":[
+            {"ejemplo":"css 1"},
+            {"hecho":"css 1"},
+            {"otro":[{"creo_1":"css 1"},{"creo_2":"css 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"css 2"},
+            {"hecho":"css 2"},
+            {"otro":[{"creo_1":"css 2"},{"creo_2":"css 2"}]}
+        ]}
+    ]},
+    {"javascript":[
+        {"instruciones":"inst js"},
+        {"nombre_script_1":[
+            {"ejemplo":"js 1"},
+            {"hecho":"js 1"},
+            {"otro":[{"creo_1":"js 1"},{"creo_2":"js 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"js 2"},
+            {"hecho":"js 2"},
+            {"otro":[{"creo_1":"js 2"},{"creo_2":"js 2"}]}
+        ]}
+    ]},
+    {"php":[
+        {"instruciones":"inst php"},
+        {"nombre_script_1":[
+            {"ejemplo":"php 1"},
+            {"hecho":"php 1"},
+            {"otro":[{"creo_1":"php 1"},{"creo_2":"php 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"php 2"},
+            {"hecho":"php 2"},
+            {"otro":[{"creo_1":"php 2"},{"creo_2":"php 2"}]}
+        ]}
+    ]},
+    {"python":[
+        {"instruciones":"inst python"},
+        {"nombre_script_1":[
+            {"ejemplo":"python 1"},
+            {"hecho":"python 1"},
+            {"otro":[{"creo_1":"python 1"},{"creo_2":"python 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"python 2"},
+            {"hecho":"python 2"},
+            {"otro":[{"creo_1":"python 2"},{"creo_2":"python 2"}]}
+        ]}
+    ]},
+    {"java":[
+        {"instruciones":"inst java"},
+        {"nombre_script_1":[
+            {"ejemplo":"java 1"},
+            {"hecho":"java 1"},
+            {"otro":[{"creo_1":"java 1"},{"creo_2":"java 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"java 2"},
+            {"hecho":"java 2"},
+            {"otro":[{"creo_1":"java 2"},{"creo_2":"java 2"}]}
+        ]}
+    ]},
+    {"c":[
+        {"instruciones":"inst c"},
+        {"nombre_script_1":[
+            {"ejemplo":"c 1"},
+            {"hecho":"c 1"},
+            {"otro":[{"creo_1":"c 1"},{"creo_2":"c 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"c 2"},
+            {"hecho":"c 2"},
+            {"otro":[{"creo_1":"c 2"},{"creo_2":"c 2"}]}
+        ]}
+    ]},
+    {"c++":[
+        {"instruciones":"inst c++"},
+        {"nombre_script_1":[
+            {"ejemplo":"c++ 1"},
+            {"hecho":"c++ 1"},
+            {"otro":[{"creo_1":"c++ 1"},{"creo_2":"c++ 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"c++ 2"},
+            {"hecho":"c++ 2"},
+            {"otro":[{"creo_1":"c++ 2"},{"creo_2":"c++ 2"}]}
+        ]}
+    ]},
+    {"c#":[
+        {"instruciones":"inst c#"},
+        {"nombre_script_1":[
+            {"ejemplo":"c# 1"},
+            {"hecho":"c# 1"},
+            {"otro":[{"creo_1":"c# 1"},{"creo_2":"c# 1"}]}
+        ]},
+        {"nombre_script_2":[
+            {"ejemplo":"c# 2"},
+            {"hecho":"c# 2"},
+            {"otro":[{"creo_1":"c# 2"},{"creo_2":"c# 2"}]}
+        ]}
+    ]}
+]
+
+
